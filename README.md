@@ -8,7 +8,7 @@ This project implements AWS S3 Event Triggering using Shell Scripting to automat
 ![Diagram of S3 Event Triggering](images/1.png)
 
 ---
-Here are some examples that use S3 event triggering:
+Here are some other examples that use S3 event triggering:
 
 Netflix: Netflix use S3 event triggering to automatically process video files uploaded to Amazon S3, enabling seamless content ingestion and processing.
 
